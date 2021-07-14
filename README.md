@@ -21,7 +21,9 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cg456456)](https://solved.ac/cg456456/)
 
+### ⚡ My Git Hub Stats ⚡
 
+![Last-SilverLight-End's GitHub stats](https://github-readme-stats.vercel.app/api?username=Last-SilverLight-End&show_icons=true&theme=dracula)
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)-->
 <!--
