@@ -2,7 +2,7 @@
 
 
 <div align=center>
-  🌱Interested int React & android Studio 🌱
+  🌱Interested in React & Android Apps(Studio) 🌱
   
   
   </div>
