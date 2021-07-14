@@ -13,6 +13,9 @@
 ### ![Hits](https://img.shields.io/github/followers/Last-SilverLight-End?label=Follow)
 
 
+
+### 🤔My Baekjoon skills.... I MUST WORK HARDER! 🤔
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cg456456)](https://solved.ac/cg456456/)
 
 <!--
