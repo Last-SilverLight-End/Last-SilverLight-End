@@ -13,6 +13,9 @@
 ### ![Hits](https://img.shields.io/github/followers/Last-SilverLight-End?label=Follow)
 
 
+###  📫 My Using Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Last-SilverLight-End)](https://github.com/Last-SilverLight-End)
 
 ### 🤔My Baekjoon skills.... I MUST WORK HARDER! 🤔
 
