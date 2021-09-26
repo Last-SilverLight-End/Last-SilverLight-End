@@ -1,5 +1,8 @@
 # Last-SilverLight-End
 
+돈 많은 백수를 꿈꾸는 학생입니다. 지금은 학기중이라 공부 투자가 힘들지만 그래도 짬짬히 하려고 노력하고 있습니다.
+리엑 네이티브와 자바,코틀린으로 앱 만드는 분야를 택하고 있습니다.
+***절 데려가줘요 엉엉***
 
 <div align=center>
   🌱Interested in React & Android Apps(Studio) 🌱
