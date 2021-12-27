@@ -4,9 +4,14 @@
 + 학기중에서도 열심히 앱에 관하여 기술 스택 공부중 입니다.
 + 저는 기본적으로 리엑 네이티브와 자바,코틀린을 통해 앱을 만드는걸 선호 합니다
 
+
+
+
 + I'm a student who dreams of a lot of money. 
 + During the semester, I am studying the technology stack about the app.
 + I basically prefer to create apps through Reek Native and Java and Kotlin.
+
+
 
 ***절 데려가줘요 엉엉***
 ***PLZ TAKE ME***
