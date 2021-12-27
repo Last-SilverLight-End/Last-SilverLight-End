@@ -1,9 +1,15 @@
 # Last-SilverLight-End
 
-돈 많은 백수를 꿈꾸는 학생입니다. 지금은 학기중이라 공부 투자가 힘들지만 그래도 짬짬히 하려고 노력하고 있습니다.
-리엑 네이티브와 자바,코틀린으로 앱 만드는 분야를 택하고 있습니다.
-***절 데려가줘요 엉엉***
+돈 많은 백수를 꿈꾸는 학생입니다. 
+학기중에서도 열심히 앱에 관하여 기술 스택 공부중 입니다.
+저는 기본적으로 리엑 네이티브와 자바,코틀린을 통해 앱을 만드는걸 선호 합니다
 
+I'm a student who dreams of a lot of money. 
+During the semester, I am studying the technology stack about the app.
+I basically prefer to create apps through Reek Native and Java and Kotlin.
+
+***절 데려가줘요 엉엉***
+***PLZ TAKE ME***
 <div align=center>
   🌱Interested in React & Android Apps(Studio) 🌱
   
@@ -26,7 +32,11 @@
 
 ### I love to use these IDEs,Editors
 
-##MyFavorite! ##⚡ ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ##⚡
+🌱MyFavorite!🌱![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
+
+And Others
+
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) [Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ### 💬 Design...? I trying to do these....
 
