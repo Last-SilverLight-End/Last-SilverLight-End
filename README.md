@@ -16,7 +16,7 @@
 ***절 데려가줘요 엉엉***
 ***PLZ TAKE ME***
 <div align=center>
-  🌱Interested in React & Android Apps(Studio) 🌱
+  🌱Interested in React Native & Android Apps(Studio) 🌱
   
   
   </div>
