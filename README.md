@@ -13,8 +13,14 @@
 
 
 
+
 ***절 데려가줘요 엉엉***
 ***PLZ TAKE ME***
+
+repository 파일 정리하기 위해 organization 을 만들었습니다! 지금 공사중이라 다 끝나면 추후 업데이트 할께요!
+
+https://github.com/MyAndroidAppstudy
+
 <div align=center>
   🌱Interested in React Native & Android Apps(Studio) 🌱
   
