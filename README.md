@@ -17,9 +17,13 @@
 ***절 데려가줘요 엉엉***
 ***PLZ TAKE ME***
 
-repository 파일 정리하기 위해 organization 을 만들었습니다! 지금 공사중이라 다 끝나면 추후 업데이트 할께요!
+repository 파일 정리하기 위해 organization 을 만들었습니다! 공부한 모음집이므로 한번 들려보세요! 수정중 입니다!
 
 https://github.com/MyAndroidAppstudy
+
+현재 홈페이지 제작중 입니다. 한번 보시고 가실래요?
+
+https://last-silverlight-end.github.io/ShowMeTheHomepage/
 
 <div align=center>
   🌱Interested in React Native & Android Apps(Studio) 🌱
