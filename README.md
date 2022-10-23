@@ -31,7 +31,7 @@ Hello!
 
 
 
-
+<div align = center>
 
 
 제가 공부한 파일 정리 repository들입니다. 지금 수정 중입니다. PS 문제들도 천천히 올릴 생각 입니다.
@@ -42,7 +42,7 @@ https://github.com/MyAndroidAppstudy
 
 [https://last-silverlight-end.github.io/ShowMeTheHomepage/](https://changgeun.strongtrash.com/)
 
-
+</div>
 
 
 
