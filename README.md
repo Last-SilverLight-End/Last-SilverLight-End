@@ -25,8 +25,8 @@ Hello!
 
 + MSW Hackathon (~ 11.25) is currently in progress.
 
-# Life is The Fantasy that eventually will fail
-# So I will do my best on my entire life
+## Life is The Fantasy that eventually will fail
+## So I will do my best on my entire life
 
 
 제가 공부한 파일 정리 repository들입니다. 지금 수정 중입니다. PS 문제들도 천천히 올릴 생각 입니다.
