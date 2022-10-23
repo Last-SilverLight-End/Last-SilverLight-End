@@ -25,12 +25,12 @@ Hello!
 
 + MSW Hackathon (~ 11.25) is currently in progress.
 
-### Life is The Fantasy that eventually will fail
-### So I will do my best on my entire life
+### Life is The Fantasy that eventually will fail  
+### So I will do my best on my entire life  
 
-
-
-
+  
+  
+  
 <div align = center>
 
 
