@@ -17,13 +17,13 @@
 ***절 데려가줘요 엉엉***
 ***PLZ TAKE ME***
 
-repository 파일 정리하기 위해 organization 을 만들었습니다! 공부한 모음집이므로 한번 들려보세요! 수정중 입니다!
+제가 공부한 파일 정리 repository들입니다. 지금 수정 중입니다. PS 문제들도 천천히 올릴 생각 입니다.
 
 https://github.com/MyAndroidAppstudy
 
-현재 홈페이지 제작중 입니다. 한번 보시고 가실래요?
+홈페이지에 포트폴리오 , 자기소개가 쓰여져 있습니다. 공사 중이지만... 보고 가실래요?
 
-https://last-silverlight-end.github.io/ShowMeTheHomepage/
+[https://last-silverlight-end.github.io/ShowMeTheHomepage/](https://changgeun.strongtrash.com/)
 
 <div align=center>
   🌱Interested in React Native & Android Apps(Studio) 🌱
