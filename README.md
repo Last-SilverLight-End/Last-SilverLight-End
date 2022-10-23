@@ -1,21 +1,33 @@
 # Last-SilverLight-End
 
-+ 돈 많은 백수를 꿈꾸는 학생입니다. 
-+ 학기중에서도 열심히 앱에 관하여 기술 스택 공부중이에요!.
-+ 저는 기본적으로 리엑 네이티브 , 자바,코틀린으로 앱을 만드는걸 선호 합니다
+안녕하세요!
+
++ 돈 많은 백수를 꿈꾸는 사람 입니다.
+
++ 저는 자바,코틀린언어를 사용하여 Android 앱을 만드는 걸 선호 합니다
+
++ 최근에 웹 앱이 유지 보수 및 수정이 용이하다고 하여 JavaScript , TypeScript 언어를 이용하여 공부중 입니다.
+
++ 현재 MSW 해커톤( ~ 11.25) 진행 중 입니다.
 
 
 
 
-+ I'm a student who dreams of a lot of money. 
-+ During the semester, I am studying the technology stack about the app.
-+ I basically prefer to create apps through Reek Native and Java and Kotlin.
+English_ver.
 
+Hello!
 
++ I'm a person who dreams of a lot of money. 
 
++ I basically prefer to create Android apps through Java and Kotlin.
 
-***절 데려가줘요 엉엉***
-***PLZ TAKE ME***
++ Recently, I am studying using JavaScript and TypeScript languages because web apps are easy to maintain and modify.
+
++ MSW Hackathon (~ 11.25) is currently in progress.
+
+# Life is The Fantasy that eventually will fail
+# So I will do my best on my entire life
+
 
 제가 공부한 파일 정리 repository들입니다. 지금 수정 중입니다. PS 문제들도 천천히 올릴 생각 입니다.
 
@@ -24,6 +36,11 @@ https://github.com/MyAndroidAppstudy
 홈페이지에 포트폴리오 , 자기소개가 쓰여져 있습니다. 공사 중이지만... 보고 가실래요?
 
 [https://last-silverlight-end.github.io/ShowMeTheHomepage/](https://changgeun.strongtrash.com/)
+
+
+
+
+
 
 <div align=center>
   🌱Interested in React Native & Android Apps(Studio) 🌱
