@@ -13,7 +13,7 @@
 
 
 
-English_ver.
+(English_ver)  
 
 Hello!
 
@@ -25,13 +25,16 @@ Hello!
 
 + MSW Hackathon (~ 11.25) is currently in progress.
 
-### Life is The Fantasy that eventually will fail
+DO MY BEST!  
 
+  
+  
+  
+>Life is The Fantasy that eventually will fail
+>So I will do my best on my entire life  
 
-### So I will do my best on my entire life  
-
-못 할게 뭐가 있으랴!  
-최선을 다하자!  
+>못 할게 뭐가 있으랴!  
+>최선을 다하자!  
 
 
 
