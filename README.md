@@ -49,7 +49,7 @@ https://github.com/MyAndroidAppstudy
 
 홈페이지에 포트폴리오 , 자기소개가 쓰여져 있습니다. 공사 중이지만... 보고 가실래요?
 
-[https://last-silverlight-end.github.io/ShowMeTheHomepage/](https://changgeun.strongtrash.com/)
+[[https://last-silverlight-end.github.io/ShowMeTheHomepage/](https://changgeun.strongtrash.com/)](https://changgeun.strongtrash.com/portfolio)
 
 </div>
 
