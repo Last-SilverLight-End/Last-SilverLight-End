@@ -8,7 +8,11 @@
 
 + 최근에 웹 앱이 유지 보수 및 수정이 용이하다고 하여 JavaScript , TypeScript 언어를 이용하여 공부중 입니다.
 
-+ 현재 MSW 해커톤( ~ 11.25) 진행 중 입니다.
++ MSW (MapleStoryWorld) 해커톤 참여로 게임을 만들었습니다!
+
+[https://maplestoryworlds.nexon.com/play/a72c4612eba147f587e2613332225348/]
+
+최선을 다할께요!
 
 
 
@@ -23,7 +27,7 @@ Hello!
 
 + Recently, I am studying using JavaScript and TypeScript languages because web apps are easy to maintain and modify.
 
-+ MSW Hackathon (~ 11.25) is currently in progress.
++ I made a game by participating in the MSW (MapleStoryWorld) hackathon!
 
 DO MY BEST!  
 
