@@ -10,7 +10,7 @@
 
 + MSW (MapleStoryWorld) 해커톤 참여로 게임을 만들었습니다!
 
-[https://maplestoryworlds.nexon.com/play/a72c4612eba147f587e2613332225348/]
+첫 단풍이 진 날 => https://maplestoryworlds.nexon.com/play/a72c4612eba147f587e2613332225348/
 
 최선을 다할께요!
 
