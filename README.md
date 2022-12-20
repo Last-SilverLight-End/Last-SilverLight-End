@@ -27,7 +27,7 @@
 
 + Recently, I am studying using JavaScript and TypeScript languages because web apps are easy to maintain and modify.
 
-+ I made a game by participating in the MSW (MapleStoryWorld) hackathon!
++ I made a prize in the MSW (MapleStoryWorld) hackathon! Do you want to see my works? => https://maplestoryworlds.nexon.com/play/a72c4612eba147f587e2613332225348/
 
 DO MY BEST!  
 
