@@ -51,9 +51,9 @@ DO MY BEST!
 
 https://github.com/MyAllStudyAndPortFolio
 
-홈페이지에 포트폴리오 , 자기소개가 쓰여져 있습니다. 공사 중이지만... 보고 가실래요?
+홈페이지에 포트폴리오 , 자기소개가 쓰여져 있습니다. 계속해서 바뀔수 있어요!
 
-https://changgeun.strongtrash.com/portfolio
+https://last-silverlight-end.github.io/
 
 </div>
 
