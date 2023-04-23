@@ -2,40 +2,13 @@
 
 😄 안녕하세요!
 
-+ 돈 많은 백수를 꿈꾸는 사람 입니다.
 
-+ 저는 자바,코틀린언어를 사용하여 Android 앱을 만드는 걸 선호 합니다
-
-+ 최근에 웹 앱이 유지 보수 및 수정이 용이하다고 하여 JavaScript , TypeScript 언어를 이용하여 공부중 입니다.
+ JavaScript , TypeScript 언어를 이용하여 공부중 입니다.
 
 + MSW (MapleStoryWorld) 해커톤 참여로 게임을 만들었습니다! " @@@ 우 수 수 상 @@@ "
 
 첫 단풍이 진 날 => https://maplestoryworlds.nexon.com/play/a72c4612eba147f587e2613332225348/
 
-최선을 다할께요!
-
-
-
-
-(English_ver)  
-
-😄 Hello!
-
-+ I'm a person who dreams of a lot of money. 
-
-+ I basically prefer to create Android apps through Java and Kotlin.
-
-+ Recently, I am studying using JavaScript and TypeScript languages because web apps are easy to maintain and modify.
-
-+ I made a prize in the MSW (MapleStoryWorld) hackathon! Do you want to see my works? => https://maplestoryworlds.nexon.com/play/a72c4612eba147f587e2613332225348/
-
-DO MY BEST!  
-
-  
-  
-  
->Life is The Fantasy that eventually will fail
->So I will do my best on my entire life  
 
 >못 할게 뭐가 있으랴!  
 >최선을 다하자!  
@@ -54,6 +27,11 @@ https://github.com/MyAllStudyAndPortFolio
 홈페이지에 포트폴리오 , 자기소개가 쓰여져 있습니다. 계속해서 바뀔수 있어요!
 
 https://last-silverlight-end.github.io/
+  
+노션과 블로그를 통해 기초 다지기를 다시 진행 중 입니다. 
+  
+https://allaboutweb-front.notion.site/aac8792455e149db9a66f776d8948df2
+
 
 </div>
 
