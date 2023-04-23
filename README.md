@@ -3,15 +3,14 @@
 😄 안녕하세요!
 
 
- JavaScript , TypeScript 언어를 이용하여 공부중 입니다.
++ JavaScript , TypeScript 언어를 이용하여 공부중 입니다.
 
 + MSW (MapleStoryWorld) 해커톤 참여로 게임을 만들었습니다! " @@@ 우 수 수 상 @@@ "
 
 첫 단풍이 진 날 => https://maplestoryworlds.nexon.com/play/a72c4612eba147f587e2613332225348/
 
-
->못 할게 뭐가 있으랴!  
->최선을 다하자!  
++못 할게 뭐가 있으랴!  
++최선을 다하자!  
 
 
 
@@ -28,7 +27,7 @@ https://github.com/MyAllStudyAndPortFolio
 
 https://last-silverlight-end.github.io/
   
-노션과 블로그를 통해 기초 다지기를 다시 진행 중 입니다. 
+노션과 블로그를 통해 기초 다지기 재 진행 중 입니다. 기초는 곧 
   
 https://allaboutweb-front.notion.site/aac8792455e149db9a66f776d8948df2
 
