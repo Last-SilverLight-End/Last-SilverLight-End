@@ -38,8 +38,8 @@ https://allaboutweb-front.notion.site/aac8792455e149db9a66f776d8948df2
 
 
 <div align=center>
-  🌱Interested in React & Android Apps(Studio) 🌱
-  
+  🌱Interested in React & and Web Apps 🌱
+
   
   </div>
   
@@ -60,7 +60,8 @@ https://allaboutweb-front.notion.site/aac8792455e149db9a66f776d8948df2
 ### 💬 I love to use these IDEs,Editors
 
 🌱MyFavorite!🌱
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+lets do ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 And Others
