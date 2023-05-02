@@ -9,7 +9,6 @@
 # Blogs, Portfolios
 <div align = left>
 
-
 + My Repository about App, PS, and Others.
 
 https://github.com/MyAllStudyAndPortFolio
@@ -22,16 +21,11 @@ https://last-silverlight-end.github.io/
   
 https://allaboutweb-front.notion.site/aac8792455e149db9a66f776d8948df2
 
-
 </div>
 
-
-
-
 <div align=center>
-  🌱Interested in React & and Web Apps 🌱
+  🌱Interested in Webs 🌱
 
-  
   </div>
   
 
