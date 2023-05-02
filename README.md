@@ -1,5 +1,3 @@
-# Last-SilverLight-End
-
 
 # Profile
 
