@@ -40,13 +40,13 @@ https://allaboutweb-front.notion.site/aac8792455e149db9a66f776d8948df2
 ### for BackEnd
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/java-23ED8B00?style=for-the-badge&logo=Java&logoColor=white">
 
   
   
 ## 💬 Languages I Learned
 
- <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=flat-square&logo=python&logoColor=white"/> <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white"/>   ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+ <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=flat-square&logo=python&logoColor=white"/> 
 
 ## 💬 FrameWork I Used
 
