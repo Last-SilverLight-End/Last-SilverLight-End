@@ -24,7 +24,7 @@ https://allaboutweb-front.notion.site/aac8792455e149db9a66f776d8948df2
 </div>
 
 <div align=center>
-  🌱Interested in Webs and VR Techs 🌱 
+ <h1> 🌱Interested in Webs and VR Techs 🌱  </h1>
 
   </div>
   
