@@ -6,7 +6,7 @@
 + 2021.07 ~ 2022.08 Works In Sejong MVR Lab Center
 
 
-# Blogs, Portfolios
+# Blogs, Portfolios, Awards
 <div align = left>
 
 + My Repository about App, PS, and Others.
