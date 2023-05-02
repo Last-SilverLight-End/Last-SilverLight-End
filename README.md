@@ -6,18 +6,19 @@
 + 2021.07 ~ 2022.08 Works In Sejong MVR Lab Center
 
 
+# Blogs, Portfolios
 <div align = left>
 
 
-제가 공부한 파일 정리 repository들입니다. 현재 앱 관련된 공부 및 개발 내용들이 쓰여져 있습니다. PS 문제들도 천천히 올릴 생각 입니다. 역작들을 구경하실래요?
++ My Repository about App, PS, and Others.
 
 https://github.com/MyAllStudyAndPortFolio
 
-홈페이지에 포트폴리오 , 자기소개가 쓰여져 있습니다. 계속해서 바뀔수 있어요!
-
++ My Homepage (revision is undergo)
+  
 https://last-silverlight-end.github.io/
   
-노션과 블로그를 통해 기초 다지기 재 진행 중 입니다. 기초는 곧 실력
++ My Notions About TypeScript, Spring, and others.
   
 https://allaboutweb-front.notion.site/aac8792455e149db9a66f776d8948df2
 
