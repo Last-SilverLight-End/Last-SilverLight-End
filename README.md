@@ -30,7 +30,7 @@ https://allaboutweb-front.notion.site/aac8792455e149db9a66f776d8948df2
   
 ### ![Hits](https://img.shields.io/github/followers/Last-SilverLight-End?label=Follow)
 
-## 💬 My Main Programming Languages
+## 💬 Programming Languages
 
 ### for PS
  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white"/>
@@ -65,11 +65,11 @@ And Others
 ![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
 -->
  
-###  📫 Current My Using Languages
+###  📫 Current Languages Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Last-SilverLight-End)](https://github.com/Last-SilverLight-End)
 
-### 🤔My Baekjoon skills.... I MUST  HARDER! 🤔
+### 🤔 My Baekjoon Skills.... 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cg456456)](https://solved.ac/cg456456/)
 
