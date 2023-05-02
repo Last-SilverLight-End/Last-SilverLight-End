@@ -1,28 +1,13 @@
 # Last-SilverLight-End
 
+
 # Profile
 
 + 2017.03~ 2023.08 Sejong University (candidate)
 
-
 + 2021.07 ~ 2022.08 Works In Sejong MVR Lab Center
 
-😄 안녕하세요!
 
-
-+ JavaScript , TypeScript 언어를 이용하여 공부중 입니다.
-
-+ MSW (MapleStoryWorld) 해커톤 참여로 게임을 만들었습니다! " @@@ 우 수 수 상 @@@ "
-
-첫 단풍이 진 날 => https://maplestoryworlds.nexon.com/play/a72c4612eba147f587e2613332225348/
-
-+못 할게 뭐가 있으랴!  
-+최선을 다하자!  
-
-
-
-  
-  
 <div align = left>
 
 
