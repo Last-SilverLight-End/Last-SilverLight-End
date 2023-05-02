@@ -2,8 +2,10 @@
 
 Profile
 
-2017.03~ 2023.08 Sejong University (candidate)
-2021.07 ~ 2022.08 Works In Sejong MVR Lab Center
++ 2017.03~ 2023.08 Sejong University (candidate)
+
+
++ 2021.07 ~ 2022.08 Works In Sejong MVR Lab Center
 
 😄 안녕하세요!
 
