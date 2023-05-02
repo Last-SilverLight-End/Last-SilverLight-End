@@ -65,10 +65,10 @@ And Others
 ![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
 -->
  
-###  📫 Current Languages Stats
+<!--###  📫 Current Languages Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Last-SilverLight-End)](https://github.com/Last-SilverLight-End)
-
+ -->
 ### 🤔 My Baekjoon Skills.... 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cg456456)](https://solved.ac/cg456456/)
