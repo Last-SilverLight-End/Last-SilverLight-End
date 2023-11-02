@@ -5,6 +5,7 @@
 
 + 2021.07 ~ 2022.08 Works In Sejong MVR Lab Center
 
++ 2023.08 ~ Work In Hanwha Company
 
 # Blogs, Portfolios, Awards
 <div align = left>
