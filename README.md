@@ -5,7 +5,7 @@
    <br/><br/> 🌱Interested in Webs and VR Techs 🌱  </h2>
   </div>
 
-# Blogs, Portfolios, Awards
+# 🔭 Blogs, Portfolios, Awards
 <div align = left>
 
 + My Repository about App, PS, and Others.
@@ -19,11 +19,14 @@ https://last-silverlight-end.github.io/
 + My Notions About TypeScript, Spring, and others.
   
 https://allaboutweb-front.notion.site/aac8792455e149db9a66f776d8948df2
-
 </div>
+
+##
 
 ## 💬 Programming Languages
 
+<div align = left>
+  
 ### Work
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white"/>
   
@@ -33,6 +36,8 @@ https://allaboutweb-front.notion.site/aac8792455e149db9a66f776d8948df2
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) <img src="https://img.shields.io/badge/java-23ED8B00?style=for-the-badge&logo=Java&logoColor=white"/>
 ### For PS
  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white"/>
+
+##
 <!--### Others
 
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=flat-square&logo=python&logoColor=white"/> 
@@ -58,7 +63,7 @@ And Others
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Last-SilverLight-End)](https://github.com/Last-SilverLight-End)
  -->
-### 🤔 My Baekjoon Skills.... 
+## 🤔 My Baekjoon Skills.... 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cg456456)](https://solved.ac/cg456456/)
 
