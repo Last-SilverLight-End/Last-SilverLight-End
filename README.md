@@ -14,7 +14,7 @@
 
 https://github.com/MyAllStudyAndPortFolio
 
-+ My Homepage (revision is undergo)
++ My Homepage (doing renewal)
   
 https://last-silverlight-end.github.io/
   
