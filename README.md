@@ -14,7 +14,7 @@
 
 https://github.com/MyAllStudyAndPortFolio
 
-+ My Homepage (doing renewal)
++ My Homepage (Doing renewal)
   
 https://last-silverlight-end.github.io/
   
@@ -33,7 +33,7 @@ https://allaboutweb-front.notion.site/aac8792455e149db9a66f776d8948df2
 
 ## 💬 Programming Languages
 
-### for PS
+### for Work, PS
  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white"/>
  
 ### for FrontEnd
