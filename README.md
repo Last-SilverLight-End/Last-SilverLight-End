@@ -1,7 +1,7 @@
 
 <div align=center>
   <h1> HunterKiller (hunkill)</h1>
- <h2> R&D and Front Developer
+ <h2> ⚡ R&D and Front Developer
    <br/><br/> 🌱Interested in Webs and VR Techs 🌱  </h2>
   </div>
 
