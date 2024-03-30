@@ -5,7 +5,7 @@
 
 + 2021.07 ~ 2022.08 Works In Sejong MVR Lab Center
 
-+ 2023.08 ~ Work In Company (R&D)
++ 2023.08 ~ Work In Company (Hanwha Momentum)
 
 # Blogs, Portfolios, Awards
 <div align = left>
